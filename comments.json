@@ -23,5 +23,25 @@
         "id": 1464988717637,
         "author": "evil",
         "text": "<a href=\"javascript:alert(1)\">alert(1)</a>"
+    },
+    {
+        "id": 1476721520137,
+        "author": "Nick",
+        "text": "This is working...in real time"
+    },
+    {
+        "id": 1476721540016,
+        "author": "Nick",
+        "text": "Thpectacalller"
+    },
+    {
+        "id": 1476753397175,
+        "author": "Is this working?",
+        "text": "I hope so"
+    },
+    {
+        "id": 1476753983395,
+        "author": "I really like...",
+        "text": "...the way this looks"
     }
 ]
